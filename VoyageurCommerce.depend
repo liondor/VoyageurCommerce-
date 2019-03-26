@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553625346 source:c:\users\joel\documents\uqac\algorithmique\voyageurcommerce\voyageurcommerce\src\node.cpp
+	"Node.h"
+
+1553625346 c:\users\joel\documents\uqac\algorithmique\voyageurcommerce\voyageurcommerce\include\node.h
+
+1553625454 source:c:\users\joel\documents\uqac\algorithmique\voyageurcommerce\voyageurcommerce\src\solveur.cpp
+	"Solveur.h"
+
+1553625454 c:\users\joel\documents\uqac\algorithmique\voyageurcommerce\voyageurcommerce\include\solveur.h
+
